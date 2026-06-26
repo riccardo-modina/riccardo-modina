@@ -3,17 +3,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4facfe&center=true&vCenter=true&lines=SWE+Student;Cooperative+Driving;Finance;Homelab" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4facfe&center=true&vCenter=true&lines=SWE+Student;Cooperative+Driving+Systems;Cloud+%26+Self-Hosting;Infrastructure+as+Code" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering Student** at the **University of Brescia (UNIBS)**, graduating in **July 2026**. I combine software development, data management, and network security to build automated and secure systems across my main areas of interest:
+I'm a **Computer Science Student** at the **University of Brescia (UNIBS)**, graduating in **July 2026**. More than just writing code, I am driven by a deep curiosity to explore how things work under the hood—whether it's breaking down a complex software architecture, tweaking a local server setup, experimenting with the perfect recipe in the kitchen, or engineering a physical DIY project like building an above-ground pool. 
 
-- 💳 **Finance:** Developing systems for personal finance management and budget tracking.
-- 🏠 **Homelab & Automation:** Managing local infrastructure, network setups, and hardware/structural DIY automation.
+I love building structured, clean, and interconnected systems. My main focus and hands-on projects cover:
+
+- 💳 **Applications & Infrastructure:** Developing secure, end-to-end encrypted applications and using Infrastructure as Code (IaC) to automate cloud deployments.
+- 🚗 **V2X & Systems Logic:** Simulating vehicle networks, analyzing protocols, and testing security rules for cooperative driving systems.
+- 🏠 **Homelab & DIY Automation:** Designing containerized self-hosted setups, managing local network architecture, and bringing structural automation into everyday life.
 
 ---
 
@@ -21,31 +24,34 @@ I'm a **Software Engineering Student** at the **University of Brescia (UNIBS)**,
 
 ### 💻 Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,javascript,bash,java,c" />
 </p>
 
-### 🔧 Tools, Frameworks & DBs
+### 🔧 Tools, Cloud & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,postgres,django,vue,gcp,firebase,terraform" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,terraform,gcp,firebase,linux,django,vue,docker" />
 </p>
+
+> **Note:** I also use **PlantUML** for architectural blueprints and system data modeling.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 [Plexe](https://github.com/riccardo-modina/plexe) (BSc Thesis Project)
-Development and study of a **DataReplay attack detector** within cooperative driving systems (V2X). Built on top of the **Plexe** framework, this research focuses on misbehavior detection, protocol analysis, and simulation of cooperative driving maneuvers.
-
-*Status: Active*
-
----
-
-### 💳 [FinanceApp](https://github.com/riccardo-modina/FinanceApp)
-A comprehensive application designed for tracking personal finances, managing budgets, and analyzing expenses. Built with a focus on seamless state management, clean architecture, and version control best practices.
-
-* **Cloud & Infrastructure (IaC):** Provisioned via **Terraform** using **Google Cloud (GCP)** and **Firebase** for main services, with a serverless PostgreSQL instance hosted on **Neon**.
-* **Self-Hosting:** Fully architected with a **self-host first** approach, allowing a complete, containerized deployment on local home-servers or private infrastructure.
+### 💳 [PileUp](https://github.com/riccardo-modina/FinanceApp)
+A full-stack personal finance application built to run seamlessly on cloud services or completely self-hosted on a private home-server.
+* **Live Demo:** At [financeappfrontend.web.app](https://financeappfrontend.web.app) *(currently invite-only for a limited number of users)*.
+* **Security:** Implemented **End-to-End Encryption (E2EE)** segmented by data zones to fully secure sensitive financial transactions and user privacy.
+* **Infrastructure as Code (IaC):** Automated full service provisioning using **Terraform** on **Google Cloud Platform (GCP)** and **Neon** (Serverless PostgreSQL).
+* **CI/CD & DevOps:** Configured GitHub Actions pipelines to automate application containerization via **Docker**, ensuring clean version control and seamless package delivery for home-servers.
 
 *Status: Active Development*
 
 ---
+
+### 🚗 [Plexe (BSc Thesis Repository)](https://github.com/riccardo-modina/plexe)
+Development and evaluation of an extension for a **Misbehavior Detection System (MDS)** focused on detecting **DataReplay attacks** within vehicle platooning configurations.
+* **Core Tech:** C++, Python, OMNeT++, SUMO, Veins.
+* **Key Focus:** Simulating vehicle networks to detect communication anomalies and block simulated cyber-attacks in real time.
+
+*Status: Active Research (BSc Thesis)*
