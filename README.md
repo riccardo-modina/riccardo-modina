@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Student** at the **University of Brescia (UNIBS)**, graduating in **July 2026**. More than just writing code, I am driven by a deep curiosity to explore how things work under the hood—whether it's breaking down a complex software architecture, tweaking a local server setup, experimenting with the perfect recipe in the kitchen, or engineering a physical DIY project like building an above-ground pool. 
+I'm a **Computer Science Student** (22yo Male) at the **University of Brescia (UNIBS)**, graduating in **July 2026**. More than just writing code, I am driven by a deep curiosity to explore how things work under the hood—whether it's breaking down a complex software architecture, tweaking a local server setup, experimenting with the perfect recipe in the kitchen, or engineering a physical DIY project like building an above-ground pool. 
 
 I love building structured, clean, and interconnected systems. My main focus and hands-on projects cover:
 
