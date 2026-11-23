@@ -1,6 +1,6 @@
-## About Me
+I'm a **Computer Engineering Student** (23yo Male) at the **University of Brescia (UNIBS)**. Graduated in **July 2026** with 108/110, now starting my master degree.
 
-I'm a **Computer Science Student** (22yo Male) at the **University of Brescia (UNIBS)**. Graduated in **July 2026** with 108/110, now starting my master degree.
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/riccardo-modina/badge.svg)](https://hub.xerj.org/contributors/riccardo-modina)
 
 ---
 
